@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 
-.header_container{
+.header_container {
     height: 5rem;
     width: 100%;
     background-color: yellow;
     display: flex;
     -ms-flex-direction: row;
-    
+
 }
